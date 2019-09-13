@@ -23,4 +23,6 @@ This is a simple we project, deployment can be on any web server or even local f
 
 ### Copyright
 
+Please fork this repository and then make a pull request to contribute.s
+
 Copyright 2014 Git.training.
